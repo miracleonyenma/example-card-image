@@ -20,7 +20,7 @@ export default function ImageCard({
           src={imageSrc}
           width={imageWidth}
           height={imageHeight}
-          className="w-40 absolute bottom-0 left-0 scale-150 object-contain h-56"
+          className="w-40 absolute bottom-0 left-1/2 -translate-x-1/2 scale-150 object-contain h-56"
           alt={imageAlt}
         />
       </div>
@@ -29,7 +29,7 @@ export default function ImageCard({
           src={imageSrc}
           width={imageWidth}
           height={imageHeight}
-          className="w-40 absolute bottom-0 left-0 scale-150 object-contain h-56"
+          className="w-40 absolute bottom-0 left-1/2 -translate-x-1/2 scale-150 object-contain h-56"
           alt={imageAlt}
         />
       </div>

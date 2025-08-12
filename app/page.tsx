@@ -15,7 +15,7 @@ export default function Home() {
           <ImageCard
             imageSrc="/images/girl-2.png"
             imageAlt="another image"
-            className="relative bg-red-400 rounded-2xl w-56 h-56 mt-12"
+            className="relative bg-red-400 rounded-3xl w-56 h-56 mt-12"
           />
         </div>
       </div>
